@@ -1,0 +1,4 @@
+@EndUserText.label: 'indent register'
+define service Zsd_ind_rep1 {
+  expose ZMM_IND_REP1;
+}
